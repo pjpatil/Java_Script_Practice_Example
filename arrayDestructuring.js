@@ -6,6 +6,8 @@ let [a,b,c,d]= nums; // a=5,b=7,c=2,d=4
 
 console.log(c);
 
+  
+
 
 /*
 let words="My name is Pnakaj Patil Im from jalgaon".split(' ');
