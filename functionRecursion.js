@@ -14,5 +14,3 @@ function show() {
 //     console.log("hello..");    
 // }
 // abc();
-
-show();

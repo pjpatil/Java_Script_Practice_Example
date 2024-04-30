@@ -10,7 +10,7 @@ for (let n of nums) {
 }
 
 
-for (let key in nums) {
-    console.log(nums[key]);
-}
+// for (let key in nums) {
+//     console.log(nums[key]);
+// }
 
